@@ -1,2 +1,3 @@
-# CarbonFootprintSQL
-The project idea is about creating a web-based application that backs environmental conservation. Additionally, the result this software delivers in helping this is by calculating the carbon footprint of each building.
+# DailyTemperatureReadingsSQL
+The project idea is about creating a query to assess the overall trend of daily temperature statistics, to confirm if the United States of America is indeed getting hotter. 
+
